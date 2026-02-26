@@ -1,0 +1,4 @@
+telebot
+dnslib
+python-dotenv
+requests

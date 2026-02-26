@@ -1,0 +1,11 @@
+{
+  "blocked_sites": [],
+  "users": {},
+  "dns_queries": {},
+  "statistics": {
+    "total_blocks": 0,
+    "active_users": 0,
+    "dns_connections": 0,
+    "last_update": ""
+  }
+}
